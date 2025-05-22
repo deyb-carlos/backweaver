@@ -46,6 +46,7 @@ origins = [
     "https://sceneweaver.site",
     "https://mung-bean-sceneweaver.hf.space",
     "sceneweaver.netlify.app",
+    "ec2-3-106-55-36.ap-southeast-2.compute.amazonaws.com",
 ]
 
 app.add_middleware(
